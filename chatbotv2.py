@@ -800,4 +800,4 @@ async def delete_key_error(ctx, error):
     elif isinstance(error, commands.BadArgument):
         await ctx.send("The format of this command should be *~deletekey mood keywordnumber*.")
 
-bot.run("OTMwMTA1NjQxODQ1MDIyNzUw.YdxCYQ.b6f2x_jy1fpx0QFo1QRnIpHJT_M")
+bot.run("TOKEN")
